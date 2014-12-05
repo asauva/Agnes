@@ -16,6 +16,7 @@ static int i = 0;
      */
     public static void main(String[] args) {
         System.out.println("Hello word");
+        System.out.println("joyeux noel");
        Rabbit rabbit = new Rabbit("bob", 5);
        while(i <= 10){
             rabbit.talk();
